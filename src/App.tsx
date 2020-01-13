@@ -13,6 +13,7 @@ const App: React.FC<AppProps> = ({}) => {
     }
     return rows;
   });
+  e;
 
   console.log(grid);
 
