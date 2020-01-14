@@ -14,6 +14,7 @@ const App: React.FC<AppProps> = ({}) => {
     return rows;
   });
   e;
+  d;
 
   console.log(grid);
 
